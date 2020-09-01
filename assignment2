@@ -1,0 +1,63 @@
+  <!DOCTYPE html>
+<html lang="en">
+    <head.
+     <meta charset="UTF-8" />
+     <meta name="viewport" content="width=device-initial-scale"
+     <title>          </title>
+    </head>
+    <body>
+    <nav>
+    <h1>
+    <p>HOME &nbsp;&nbsp; A PAGE ANOTHER PAGE CONTACT US </p>
+    </h1>
+    </nav>
+    <main>
+        <section>
+           <h2> welcome to the colour_green template  
+           </main>
+        <section>
+        <p>Suspendisse interdum euismod lacinia. Nullam urna arcu, pharetra in interdum ut, ornare id nulla. Maecenas maximus pretium tellus nec efficitur. Nullam a est ex. Cras quis massa dignissim, egestas diam a, luctus purus. Aenean in tellus eget felis mattis pretium. Vivamus hendrerit, ante ac fermentum malesuada, tellus orci laoreet metus, eu posuere quam urna eget ex. Duis nec congue massa. Sed quis neque feugiat purus rhoncus vestibulum.</p>
+        <p>Donec tortor lacus, luctus ut enim sed, lobortis eleifend eros. Integer accumsan, tellus non aliquam dictum, ex arcu tempus nisl, at cursus ligula nibh nec lectus. Vestibulum vulputate, dui id cursus elementum, nisi augue vestibulum tellus, id pellentesque enim mauris.</p>
+        <p>Donec tortor lacus, luctus ut enim sed, lobortis eleifend eros. Integer accumsan, tellus non aliquam dictum, ex arcu tempus nisl, at cursus ligula nibh nec lectus. Vestibulum vulputate, dui id cursus elementum, nisi augue vestibulum tellus, id pellentesque enim mauris.</p>
+        <p>Donec tortor lacus, luctus ut enim sed, lobortis eleifend eros. Integer accumsan, tellus non aliquam dictum, ex arcu tempus nisl, at cursus ligula nibh nec lectus. Vestibulum vulputate, dui id cursus elementum, nisi augue vestibulum tellus, id pellentesque enim mauris.</p>
+        </section>
+        <main>
+        <section>
+           <h2> Browser compatibility</h2>
+           </main>
+        <section>
+        <p>the template has been tested in fiollowing browsers:-<br>
+
+           1. internet explorer 7 
+           <br>
+           2.  internet explorer 8
+           <br>
+           3. firefox 3.5
+           <br>
+           4. google chrome 6
+           <br>
+           5. safari
+         </section>
+
+         <aside>
+         <h1> Latest news</h1>
+         <p><b>new website launched </b><br>
+          january 1st,2010</p>
+          2010 sees the redesign of our website. take a look around and let us know what you think.Read more
+          <p><b>new website launched </b><br>
+          january 1st,2010</p>
+          2010 sees the redesign of our website. take a look around and let us know what you think.Read more
+          <p><b><h1>useful information</p></b></h1>
+          lorem ipsum
+          <p><b><h1>SEARCH</p></b></h1>
+          copyright
+
+          </aside>
+        
+
+    
+    </body>
+</html>
+
+
+
